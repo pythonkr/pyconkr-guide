@@ -1,0 +1,6 @@
+{
+  "plugins": ["-sharing"],
+  "variables": {
+    "BASE_URL": "https://pythonkr.github.io"
+  }
+}
