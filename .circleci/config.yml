@@ -13,10 +13,9 @@ jobs:
             - node-v1-
       - run: 
           command: |
-            env
-            sudo npm install -g gitbook-cli
-            gitbook install
-            gitbook build
+            npm install gitbook-cli
+            ./node_modules/gitbook-cli/bin/gitbook.js install
+            ./node_modules/gitbook-cli/bin/gitbook.js build
       - save_cache:
           key: v1-repo-{{ .Environment.CIRCLE_SHA1 }}
           paths:
