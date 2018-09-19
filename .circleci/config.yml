@@ -45,7 +45,7 @@ jobs:
             git clean -fx _book
             git add .
             git commit -a -m "$GIT_COMMIT_DESC"
-            git push origin gh-pages
+            git push https://${GITHUB_PERSONAL_TOKEN}@github.com/amazingguni/pyconkr-guide.git gh-pages
     
             
 workflows:
