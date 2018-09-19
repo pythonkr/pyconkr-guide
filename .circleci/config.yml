@@ -2,7 +2,7 @@ version: 2
 jobs:
   build:
     docker:
-      - image: circleci/node:8.12-browsers-legacy
+      - image: circleci/node:8.12
     working_directory: ~/repo
     steps:
       - checkout
@@ -11,21 +11,19 @@ jobs:
             sudo npm install -g gitbook-cli
             gitbook install
             gitbook build
-            ls
       - save_cache:
           key: v1-repo-{{ .Environment.CIRCLE_SHA1 }}
           paths:
             - ~/repo
   deploy:
     docker:
-      - image: circleci/node:8.12-browsers-legacy
+      - image: circleci/node:8.12
     working_directory: ~/repo
     steps:
       - restore_cache:
           key: v1-repo-{{ .Environment.CIRCLE_SHA1 }}
       - run: 
           command: |
-            echo "deploy"
             ls
     
             
