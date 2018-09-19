@@ -28,22 +28,18 @@ jobs:
     docker:
       - image: circleci/node:8.12
     working_directory: ~/repo
-    environment:
-      GIT_COMMIT_DESC: $(git log --format=oneline -n 1 $CIRCLE_SHA1)
-      GIT_COMMIT_USER: $(git log --format='%an' $CIRCLE_SHA1^!)
-      GIT_COMMIT_EMAIL: $(git log --format='%ae' $CIRCLE_SHA1^!)
     steps:
       - restore_cache:
           key: v1-repo-{{ .Environment.CIRCLE_SHA1 }}
       - run: 
           command: |
-            git config --global user.email "$GIT_COMMIT_EMAIL"
-            git config --global user.name "$GIT_COMMIT_USER"
+            git config --global user.email "$(git log --format='%ae' $CIRCLE_SHA1^!)"
+            git config --global user.name "$(git log --format='%an' $CIRCLE_SHA1^!)"
             git checkout gh-pages
             cp -R _book/* .
             git clean -fx _book
             git add .
-            git commit -am "$GIT_COMMIT_DESC"
+            git commit -am "Update docs"
             git push -f https://${GITHUB_PERSONAL_TOKEN}@github.com/amazingguni/pyconkr-guide.git gh-pages
     
             
