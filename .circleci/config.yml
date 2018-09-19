@@ -6,6 +6,11 @@ jobs:
     working_directory: ~/repo
     steps:
       - checkout
+      - restore_cache:
+          keys:
+            - node-v1-{{ .Branch }}-{{ checksum "package-lock.json" }}
+            - node-v1-{{ .Branch }}-
+            - node-v1-
       - run: 
           command: |
             env
@@ -16,19 +21,25 @@ jobs:
           key: v1-repo-{{ .Environment.CIRCLE_SHA1 }}
           paths:
             - ~/repo
+      - save_cache:
+          key: node-v1-{{ .Branch }}-{{ checksum "package-lock.json" }}
+          paths:
+            - node_modules
   deploy:
     docker:
       - image: circleci/node:8.12
     working_directory: ~/repo
     environment:
       GIT_COMMIT_DESC: $(git log --format=oneline -n 1 $CIRCLE_SHA1)
+      GIT_COMMIT_USER: $(git log --format='%an' $CIRCLE_SHA1^!)
+      GIT_COMMIT_EMAIL: $(git log --format='%ae' $CIRCLE_SHA1^!)
     steps:
       - restore_cache:
           key: v1-repo-{{ .Environment.CIRCLE_SHA1 }}
       - run: 
           command: |
-            git config --global user.email "you@example.com"
-            git config --global user.name "${CIRCLE_USERNAME}"
+            git config --global user.email "$GIT_COMMIT_EMAIL"
+            git config --global user.name "$GIT_COMMIT_USER"
             git checkout gh-pages
             cp -R _book/* .
             git clean -fx _book
