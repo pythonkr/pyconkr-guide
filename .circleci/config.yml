@@ -41,10 +41,11 @@ jobs:
             git config --global user.email "$GIT_COMMIT_EMAIL"
             git config --global user.name "$GIT_COMMIT_USER"
             git checkout gh-pages
+            git pull origin gh-pages --rebase
             cp -R _book/* .
             git clean -fx _book
             git add .
-            git commit -a -m "$GIT_COMMIT_DESC"
+            git commit -am "$GIT_COMMIT_DESC"
             git push https://${GITHUB_PERSONAL_TOKEN}@github.com/amazingguni/pyconkr-guide.git gh-pages
     
             
