@@ -31,7 +31,7 @@ jobs:
             git clean -fx _book
             git add .
             git commit -am "Update docs"
-            git push -f https://${GITHUB_PERSONAL_TOKEN}@github.com/amazingguni/pyconkr-guide.git gh-pages
+            git push -f https://${GITHUB_PERSONAL_TOKEN}@github.com/${CIRCLE_PROJECT_USERNAME}/${CIRCLE_PROJECT_REPONAME}.git gh-pages
     
 workflows:
   version: 2
