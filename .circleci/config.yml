@@ -24,7 +24,12 @@ jobs:
           key: v1-repo-{{ .Environment.CIRCLE_SHA1 }}
       - run: 
           command: |
-            ls
+            git checkout gh-pages
+            cp -R _book/* .
+            git clean -fx _book
+            git add .
+            git commit -a -m "Update docs"
+            git push origin gh-pages
     
             
 workflows:
