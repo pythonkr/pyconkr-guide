@@ -8,6 +8,7 @@ jobs:
       - checkout
       - run: 
           command: |
+            env
             sudo npm install -g gitbook-cli
             gitbook install
             gitbook build
@@ -19,16 +20,20 @@ jobs:
     docker:
       - image: circleci/node:8.12
     working_directory: ~/repo
+    environment:
+      GIT_COMMIT_DESC: $(git log --format=oneline -n 1 $CIRCLE_SHA1)
     steps:
       - restore_cache:
           key: v1-repo-{{ .Environment.CIRCLE_SHA1 }}
       - run: 
           command: |
+            git config --global user.email "you@example.com"
+            git config --global user.name "${CIRCLE_USERNAME}"
             git checkout gh-pages
             cp -R _book/* .
             git clean -fx _book
             git add .
-            git commit -a -m "Update docs"
+            git commit -a -m "$GIT_COMMIT_DESC"
             git push origin gh-pages
     
             
