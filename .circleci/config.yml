@@ -11,8 +11,9 @@ jobs:
             sudo npm install -g gitbook-cli
             gitbook install
             gitbook build
+            cp -r _book /tmp/
       - store_artifacts:
-          path: _book
+          path: /tmp/_book
       - save_cache:
           key: v1-repo-{{ .Environment.CIRCLE_SHA1 }}
           paths:
