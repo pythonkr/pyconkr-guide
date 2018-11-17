@@ -1,5 +1,7 @@
 # 파이콘 한국이 일하는 방법
 
+[![CircleCI](https://circleci.com/gh/pythonkr/pyconkr-guide.svg?style=shield)](https://circleci.com/gh/pythonkr/pyconkr-guide)
+
 파이콘 한국 준비위원회가 어떻게 일하고 있는지 정리합니다. 이 가이드는 언제든 수정될 수 있고, 이 가이드에 적힌 내용은 틀릴수도 있습니다.
 
 ## 기여하기
