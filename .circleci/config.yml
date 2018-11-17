@@ -29,12 +29,13 @@ jobs:
           command: |
             git config --global user.email "$(git log --format='%ae' $CIRCLE_SHA1^!)"
             git config --global user.name "$(git log --format='%an' $CIRCLE_SHA1^!)"
+            mv _book /tmp/
             git checkout gh-pages
-            cp -R _book/* .
-            git clean -fx _book
+            rm -rf *
+            cp -R /tmp/_book/* .
             git add .
             git commit -am "Update docs"
-            git push -q -f https://${GITHUB_PERSONAL_TOKEN}@github.com/${CIRCLE_PROJECT_USERNAME}/${CIRCLE_PROJECT_REPONAME}.git gh-pages
+            git push -q -f origin gh-pages
     
 workflows:
   version: 2
