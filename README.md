@@ -1,4 +1,4 @@
-# 파이콘 한국이 일하는 방법
+# 파이콘 한국 가이드
 
 [![CircleCI](https://circleci.com/gh/pythonkr/pyconkr-guide.svg?style=shield)](https://circleci.com/gh/pythonkr/pyconkr-guide)
 
