@@ -1,11 +1,12 @@
 # Summary
 
-- [INDEX](README.md)
+- [파이콘 한국이 일하는 방법](README.md)
+- [파이콘 한국과 준비위원회에 대해서](about/index.md)
+    - [활동기준](about/rule.md)
 - [파이콘 한국이 일하는 방법](how-to-work/index.md)
     - [01. 구글 그룹스 잘 쓰기](tool-guide/01-about-groups.md)
     - [02. 메일 조회하기](tool-guide/02-groups-basic.md)
     - [03. 메일링 규칙](tool-guide/03-mailing-rule.md)
-- [파이콘 한국과 준비위원회에 대해서](about/index.md)
 - [파이콘 한국 2018 자원봉사자가 일하는 방법](volunteer/index.md)
     - [00. 꼭 읽어주세요](volunteer/00-must-read.md)
     - [01. Tutorial / Sprint](volunteer/01-tutorial-sprint.md)
