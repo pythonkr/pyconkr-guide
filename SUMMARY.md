@@ -1,6 +1,6 @@
 # Summary
 
-- [파이콘 한국이 일하는 방법](README.md)
+- [가이드 소개](README.md)
 - [파이콘 한국과 준비위원회에 대해서](about/index.md)
     - [활동기준](about/rule.md)
 - [파이콘 한국이 일하는 방법](how-to-work/index.md)
