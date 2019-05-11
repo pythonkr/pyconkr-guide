@@ -16,7 +16,4 @@
 
 ## 연락처
 
-```
-연락처 (Contacts)
-준비 위원회 : support@pycon.kr
-```
+- 준비 위원회 : support@pycon.kr
