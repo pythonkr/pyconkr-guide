@@ -22,7 +22,7 @@
 
 ### 스폰서 신청 확인
 
-![](./images/홈페이지 sponsors.png)
+![](.\images\홈페이지 sponsors.png)
 
 `Sponsors`를 누르면 홈페이지를 통해 신청한 스폰서 목록이 나옵니다. ID를 누르면 상세 정보가 표시됩니다. 
 
