@@ -16,4 +16,6 @@
         - [발표 세션](volunteer/03-02-session.md)
         - [사진 촬영](volunteer/03-03-photographing.md)
     - [04. 무전기 사용](volunteer/04-wireless-set.md)
-    
+
+- [파이콘 한국 영상 자막 생성 가이드](subtitles/00-getting-started.md)
+
