@@ -1,4 +1,3 @@
-
 ### 메일 조회하기
 
 ![](https://lh6.googleusercontent.com/ClIjJd8_DGKfIBErDJxbuKXE1GVkht_DrJ5MB3oaHvieE6CRuyL2wPvFBGEghQ3Jw-1Ln6i775bANEeI2wIaL7_ec-Czi-rResyggN9VAWdklVZJ1ev3Pp4BQZqG_WCvv-BtivXJ)
@@ -6,7 +5,7 @@
 그룹스의 가장 큰 기능은 상단에 모두 위치하고 있습니다. 이 중 `필터` 기능에 대해 먼저 살펴봅시다.
 
 ##### 지금 나에게 필요한 메일만
-그룹스를 쓴다한들 모두의 메일을 다 지켜보아야 한다면 inbox를 쓰는 것과 크게 다를 것이 없죠. 업무에 가장 필요한 메일만을 조회하세요. 내가 할당되어 있으며 해결되지 않은 주제가 아마 그것일 것입니다. 
+그룹스를 쓴다한들, 모두의 메일을 다 지켜보아야 한다면 inbox를 쓰는 것과 크게 다를 것이 없죠. 업무에 가장 필요한 메일만을 조회하세요. 내가 할당되어 있으며 해결되지 않은 주제가 아마 그것일 것입니다. 
 
 ![](https://lh3.googleusercontent.com/Z4R0kRJzwkhwyLh4BEMh_I46QFlm_Lx5NXRjtTSpYf-AjSvJ9Y7sSrqSLmm796ulvdabmxLIh5EBFeOzu6KPzz6Z26cRJyPwD9sP4PR7fL-Pl13m2-YS9Uz50iVVc9khmIYKeLkM)
 
