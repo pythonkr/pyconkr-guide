@@ -2,21 +2,22 @@
 
 - [가이드 소개](README.md)
 - [파이콘 한국과 준비위원회에 대해서](about/index.md)
-    - [활동기준](about/rule.md)
+    - [활동 기준](about/rule.md)
 - [파이콘 한국이 일하는 방법](how-to-work/index.md)
-    - [01. 구글 그룹스 잘 쓰기](tool-guide/01-about-groups.md)
-    - [02. 메일 조회하기](tool-guide/02-groups-basic.md)
-    - [03. 메일링 규칙](tool-guide/03-mailing-rule.md)
-    - [04. 두레이를 이용한 스폰서 / 메일링 관리](tool-guide/04-Dooray-sponsor-guide.md)
-- 파이콘 한국 2018 자원봉사자가 일하는 방법
-    - [00. 꼭 읽어주세요](volunteer/00-must-read.md)
-    - [01. Tutorial / Sprint](volunteer/01-tutorial-sprint.md)
-    - [02. 백인서트](volunteer/02-back-insert.md)
-    - [03. 컨퍼런스](volunteer/03-conference.md)
-        - [접수 데스크](volunteer/03-01-registration-desk.md)
-        - [발표 세션](volunteer/03-02-session.md)
-        - [사진 촬영](volunteer/03-03-photographing.md)
-    - [04. 무전기 사용](volunteer/04-wireless-set.md)
-
+    - [01 구글 그룹스 잘 쓰기](tool-guide/01-about-groups.md)
+    - [02 메일 조회하기](tool-guide/02-groups-basic.md)
+    - [03 메일링 규칙](tool-guide/03-mailing-rule.md)
+    - [04 두레이를 이용한 스폰서 / 메일링 관리](tool-guide/04-Dooray-sponsor-guide.md)
+- 파이콘 한국 자원봉사자가 일하는 방법
+    - [00 꼭 읽어주세요](volunteer/00-must-read.md)
+    - [01 Tutorial / Sprint](volunteer/01-tutorial-sprint.md)
+    - [02 행사 준비](volunteer/02-prepare.md)
+    - 03 컨퍼런스
+        - [굿즈 배부](volunteer/03-01-goods.md)
+        - [접수 데스크](volunteer/03-02-registration-desk.md)
+        - [발표 세션](volunteer/03-03-session.md)
+        - [사진 촬영](volunteer/03-04-photographing.md)
+    - [04 무전기 사용](volunteer/04-wireless-set.md)
+    
 - [파이콘 한국 영상 자막 생성 가이드](subtitles/00-getting-started.md)
 
