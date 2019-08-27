@@ -13,7 +13,7 @@
 
 ## Session Chair (준비위원회)
 
-Session Chair의 상세한 Script는 [해당 문서](https://drive.google.com/open?id=1Zh9YFvki1R98NvKfUTT8JNeGXgTx57CdtuFwt_fBIgA) 참고 바랍니다.
+Session Chair의 상세한 Script는 [해당 문서](https://drive.google.com/open?id=1Zh9YFvki1R98NvKfUTT8JNeGXgTx57CdtuFwt_fBIgA)를 참고 바랍니다.
 
 1. 발표 시작 직전 참가자 착석 유도 등 발표 준비 
 2. Session Chair의 발표 주제와 발표자 소개
