@@ -15,4 +15,4 @@
 
 ## 연락처
 
-- 준비 위원회 : pyconkr@pycon.kr
+- 준비위원회 : pyconkr@pycon.kr
