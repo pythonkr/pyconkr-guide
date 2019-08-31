@@ -8,6 +8,7 @@
     - [02 메일 조회하기](tool-guide/02-groups-basic.md)
     - [03 메일링 규칙](tool-guide/03-mailing-rule.md)
     - [04 두레이를 이용한 스폰서 / 메일링 관리](tool-guide/04-Dooray-sponsor-guide.md)
+    - [05 재정지원](how-to-work/fa.md)
 - 파이콘 한국 자원봉사자가 일하는 방법
     - [00 꼭 읽어주세요](volunteer/00-must-read.md)
     - [01 Tutorial / Sprint](volunteer/01-tutorial-sprint.md)
