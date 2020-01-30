@@ -11,7 +11,7 @@
 3. 적고자 하는 가이드를 추가합니다.
     - 마크다운 형식의 md 파일
     - tool-guide 외의 목차라면 해당하는 디렉토리를 만들어 목차를 구상해주세요.
-4. README, SUMMARY 도 수정사항이 있다면 수정해주세요.
+4. README, SUMMARY 도 수정 사항이 있다면 수정해주세요.
 5. 수정사항들을 모두 push 한 후, Pull Request 를 생성합니다.
 6. PyCon.KR slack 을 통해 PR이 열렸다고 자동으로 알려줄거에요.
     - 리뷰어분들은 CircleCI 빌드가 끝나고 보관되는 Artifacts로 결과물을 보시고 리뷰하시면 편할거에요.
