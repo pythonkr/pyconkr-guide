@@ -4,12 +4,15 @@
 - [파이콘 한국과 준비위원회에 대해서](about/index.md)
     - [활동 기준](about/rule.md)
 - [파이콘 한국이 일하는 방법](how-to-work/index.md)
-    - [01 구글 그룹스 잘 쓰기](tool-guide/01-about-groups.md)
-    - [02 메일 조회하기](tool-guide/02-groups-basic.md)
-    - [03 메일링 규칙](tool-guide/03-mailing-rule.md)
-    - [04 슬랙 채널](/tool-guide/04-Slack-channel.md)
-    - [05 두레이를 이용한 스폰서 관리](tool-guide/05-Dooray-sponsor-guide.md)
-    - [06 재정지원](how-to-work/fa.md)
+    - 01 구글 그룹스 잘 쓰기
+        - [그룹스란?](tool-guide/01-01-about-groups.md)
+        - [메일 조회하기](tool-guide/01-02-groups-basic.md)
+        - [메일링 규칙](tool-guide/01-03-mailing-rule.md)
+    - [02 슬랙 채널](/tool-guide/02-Slack-channel.md)
+    - 03 두레이 잘 쓰기
+        - [2019 스폰서 관리](tool-guide/03-01-2019-sponsor.md)
+- 파준위 실록
+    - [2019 재정지원](history/2019-fa.md)
 - 파이콘 한국 자원봉사자가 일하는 방법
     - [00 꼭 읽어주세요](volunteer/00-must-read.md)
     - [01 Tutorial / Sprint](volunteer/01-tutorial-sprint.md)
@@ -19,7 +22,7 @@
         - [접수 데스크](volunteer/03-02-registration-desk.md)
         - [발표 세션](volunteer/03-03-session.md)
         - [사진 촬영](volunteer/03-04-photographing.md)
-    - [04 무전기 사용](volunteer/04-wireless-set.md)
+        - [무전기 사용](volunteer/03-05-wireless-set.md)
     
 - [파이콘 한국 영상 자막 생성 가이드](subtitles/00-getting-started.md)
 
