@@ -9,8 +9,9 @@
         - [메일 조회하기](tool-guide/01-02-groups-basic.md)
         - [메일링 규칙](tool-guide/01-03-mailing-rule.md)
     - [02 슬랙 채널](/tool-guide/02-00-Slack-channel.md)
-    - [03 두레이 잘 쓰기](tool-guide/03-00-about-Dooray.md)
-        - [메일 관리](tool-guide/03-01-mailing.md)
+    - 03 두레이 잘 쓰기
+        - [두레이란?](tool-guide/03-01-about-Dooray.md)
+        - [메일 관리](tool-guide/03-02-mailing.md)
 - 파준위 실록
     - [2019 재정지원](history/2019-fa.md)
     - [2019 스폰서 관리](history/2019-sponsor.md)
