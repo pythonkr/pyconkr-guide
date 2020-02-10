@@ -31,11 +31,11 @@
 1. Gmail을 엽니다.
 2. 메일 설정을 들어갑니다.
 
-![](C:/Users/관리자/Documents/GitHub/pyconkr-guide/tool-guide/images/change_from_1.png)
+![](images/change_from_1.png)
 
 3. 계정 설정에서 `다른 이메일 주소 추가`를 누릅니다.
 
-![](C:/Users/관리자/Documents/GitHub/pyconkr-guide/tool-guide/images/change_from_2.png)
+![](images/change_from_2.png)
 
 4. (pyconkr@pycon.kr 예시) 이름에 PyCon Korea, 이메일에 pyconkr@pycon.kr을 입력합니다. (여기 쓰는 이름이 메일에 보여집니다. 공식 네이밍을 잘 따라주세요.)
 5. 해당 메일로 인증 메일이 전송됩니다. 메일 내부에 있는 인증 코드를 입력하면 완료됩니다.
