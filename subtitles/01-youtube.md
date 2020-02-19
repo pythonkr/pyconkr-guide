@@ -12,6 +12,8 @@
     - 영문 표기법 (이렇게 표기합시다)
     - 등등
 
+- 스크립트 저장소 : https://github.com/pythonkr/pyconkr-script
 
 
- https://github.com/pythonkr/pyconkr-script 
+
+ https://docs.google.com/document/d/1M2lvJlkFeCgD6HuVVK2iafAuemespMGXc58i8cZNR_c/edit 

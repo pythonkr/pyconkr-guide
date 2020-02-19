@@ -25,6 +25,8 @@
         - [발표 세션](volunteer/03-03-session.md)
         - [사진 촬영](volunteer/03-04-photographing.md)
         - [무전기 사용](volunteer/03-05-wireless-set.md)
-    
-- [파이콘 한국 영상 자막 생성 가이드](subtitles/00-getting-started.md)
+- 파이콘 한국 영상 자막 생성 가이드
+    - [00 시작하기](subtitles/00-getting-started.md)
+    - [01 유튜브를 통한 자막 생성](subtitles/01-youtube.md)
+    - [02 Amara를 이용한 자막 생성](subtitles/02-amara.md)
 
