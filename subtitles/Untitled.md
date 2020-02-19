@@ -11,3 +11,7 @@
     - 뭐 21자 이내로 한 번 끊기
     - 영문 표기법 (이렇게 표기합시다)
     - 등등
+
+
+
+ https://github.com/pythonkr/pyconkr-script 

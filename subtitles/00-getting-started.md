@@ -1,14 +1,8 @@
-# 영상 자막 생성 작업 시작하기
+# 영상 자막 생성 작업
 
-* 문자통역 자막 생성 작업 참여자 여러분 환영합니다!
-    * 이 가이드라인은 TED Open Translation Project 중 TED Korean Translators의 가이드라인을 참고로 만들었습니다.
-    * 번역 및 자막 관련 참고 자료
-        1. [Guide to subtitling TED Talks on Amara (Amara를 이용한 TED 강연 번역 지침)](https://docs.google.com/document/pub?utm_campaign&id=1PNv_ZmHzbdER1rzoo8J65Xgm3nZ7WcjjBhumIPkD6Yg&utm_medium=on.ted.com-static&utm_source=amara.org&utm_content=awesm-publisher)
-        2. [TED Translators Resources (TED Translators 번역  자료)](http://translations.ted.org/wiki/OTP_Resources:_Main_guide)
-        
 ## 자막 스크립트 초안 작업
 
-문자통역 자막 생성 작업을 하기 위해서는 자막 스크립트를 편집해야 합니다. 해야하는 것들은 아래와 같습니다.
+문자통역 자막 생성 작업을 하기 위해서는 자막 스크립트를 편집해야 합니다. 해야 하는 것들은 아래와 같습니다.
 
 **오타 등을 제외하고는 발화 내용을 편집하지 않도록 합니다.**
 * 파일 인코딩은 UTF-8로 통일합니다.
