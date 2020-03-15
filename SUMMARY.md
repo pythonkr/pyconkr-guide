@@ -29,4 +29,5 @@
     - [00 시작하기](subtitles/00-getting-started.md)
     - [01 유튜브를 통한 자막 생성](subtitles/01-youtube.md)
     - [02 Amara를 이용한 자막 생성](subtitles/02-amara.md)
+    - [03 스크립트 오탈자 수정 방법과 수정 내용의 반영](subtitles/03-merge.md)
 
