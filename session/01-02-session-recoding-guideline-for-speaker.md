@@ -168,18 +168,18 @@ Zoom 녹화
 
 #### 참고 자료. 녹화 도구에 대하여
 - 아래 공유드리는 방법 이외에도 발표자분께 가장 적합한 방법으로 녹화를 진행해주세요
-- [윈도우 10 화면 녹화 기능](https://coding-factory.tistory.com/565) 
-- [파워포인트로 영상 강의 녹화하기](https://m.blog.naver.com/parosaone/221702021993)
-- [맥북에서 퀵타임플레이어로 화면 녹화하기](https://blog.naver.com/aiwositai/221610268371)
-- [맥, 윈도우에서 OBS 스튜디오 활용하여 녹화하기](https://goodbypoor.tistory.com/44)
-- [아이패드에서 화면을 녹화하는 방법](https://justcurious.tistory.com/70)
+- [윈도우 10 화면 녹화 기능 by 코딩팩토리 (2020.06.08)](https://coding-factory.tistory.com/565) 
+- [파워포인트로 영상 강의 녹화하기 by 파로사b (2019.11.08)](https://m.blog.naver.com/parosaone/221702021993)
+- [맥북에서 퀵타임플레이어로 화면 녹화하기 by 코예커플 (2019.08.11)](https://blog.naver.com/aiwositai/221610268371)
+- [맥, 윈도우에서 OBS 스튜디오 활용하여 녹화하기 by 팬케잌굽는남자](https://goodbypoor.tistory.com/44)
+- [아이패드에서 화면을 녹화하는 방법 by 노을살롱(2020.04.05)](https://justcurious.tistory.com/70)
 
 ### 샘플 영상 제출
 - 녹화 영상의 퀄리티를 파준위가 사전에 확인할 수 있도록 30초 이내의 샘플 영상을 촬영하여 제출 부탁드립니다. 샘플 영상을 기준으로 피드백을 드리겠습니다.
 
 ### 최종 영상 제출 마감
 - 최종 영상은 오른쪽과 같은 형태로 편집이 되어서 나갈 예정입니다.
-![img]()
+![image](https://user-images.githubusercontent.com/17819874/111787239-0d3d6780-8902-11eb-86db-27c0b105b5a1.png)
 - 그렇기 때문에 편집을 위해 발표자료만 나오는 영상 파일과 발표자의 모습이 나오는 영상 파일 두 가지를 보내주셔야 합니다.
 - 발표자의 모습을 내보내고 싶지 않으시다면 대체 이미지를 주셔도 됩니다.
 
@@ -325,7 +325,8 @@ Zoom 녹화
 ### 1. 화면 
 - 웹캠이 정면을 향하고 코~ 미간 사이로 높이 위치로 들어오면 좋습니다. 
 - 조명이 너무 어둡거나 역광이 아닌지 확인해주세요. 적정 노출값에서 +-2stop 이 차이나지 않게 해주세요. (너무 어둡거나 밝지 않게 해달라는 뜻) 너무 어둡거나 밝으면, 영상 편집시 색보정이 어렵습니다. 
-- 화면 샘플 ![img]()
+- 화면 샘플 ![image](https://user-images.githubusercontent.com/17819874/111789361-673f2c80-8904-11eb-9b45-84c667a607b0.png)
+
 
 ### 2. 음성
 - 카페 등 외부 잡음이 있는 곳에서는 녹화 하지 말아주세요.
@@ -519,18 +520,20 @@ We need these at the beginning of the video.
 #### Recording software
 - Feel free to choose any methods you like other than suggested below)
 
-- [Windows 10 built-in recording](https://betanews.com/2019/01/14/windows-10-screen-recorder-ultility/) 
-- [Recording a PowerPoint slideshow](https://support.microsoft.com/en-us/office/video-record-presentations-2570dff5-f81c-40bc-b404-e04e95ffab33)
-- [How to record screen on Mac (screenflick and Quicktime player)](https://www.araelium.com/screenflick-mac-screen-recorder/how-to-screen-record-mac#qtplayer-how)
-- [Using OBS Studio on Mac/Windows](https://obsproject.com/)
-- [Screen Recording on iPad](https://support.apple.com/guide/ipad/take-a-screenshot-or-screen-recording-ipad08a40f3b/ipados)
+- [Windows 10 built-in recording by betanews (2019.01.14)](https://betanews.com/2019/01/14/windows-10-screen-recorder-ultility/) 
+- [Recording a PowerPoint slideshow by Microsoft](https://support.microsoft.com/en-us/office/video-record-presentations-2570dff5-f81c-40bc-b404-e04e95ffab33)
+- [How to record screen on Mac (screenflick and Quicktime player) by aralium](https://www.araelium.com/screenflick-mac-screen-recorder/how-to-screen-record-mac#qtplayer-how)
+- [Using OBS Studio on Mac/Windows by obsproject](https://obsproject.com/)
+- [Screen Recording on iPad by apple](https://support.apple.com/guide/ipad/take-a-screenshot-or-screen-recording-ipad08a40f3b/ipados)
 
 
 #### Submit a sample video
 - To check the video quality beforehand, please send us a 30-second sample video. We will give you feedback on video quality based on this.
 
 #### Submit a final video
-- The presentation video will be in a similar format that you see on the right side.
+- The presentation video will be in a similar format that you see on below.
+![image](https://user-images.githubusercontent.com/17819874/111787239-0d3d6780-8902-11eb-86db-27c0b105b5a1.png)
+
 - To make the editing process easier, we ask you to send us two video files; one with your presentation material, and the other with yourself.
 - If you do not want to be in the video, you can send us an alternative image you want to have in the video.
 
@@ -675,6 +678,10 @@ We need these at the beginning of the video.
 ## Tips for good video quality
 ### Screen composition
 1. It is good if the webcam is facing the front and is in a high position between the nose and the brow.
+
+![image](https://user-images.githubusercontent.com/17819874/111789361-673f2c80-8904-11eb-9b45-84c667a607b0.png)
+
+
 2. Make sure the lighting is not too dim or backlit. Make sure there is no difference between +-2 stops from the appropriate exposure value. (Meaning not to be too dark or too bright) If it is too dark or too bright, color correction is difficult when editing video.
 
 ### Voice

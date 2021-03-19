@@ -56,10 +56,16 @@
 ## zoom 세팅하기
 - Zoom 미팅 만들기 (컨트롤 타워가 모두 생성함)
   - 설정 : 클라우드 녹화(발표화면, 발표자 영상을 따로 녹화받기 위함) 
+  ![zoom-setting](https://user-images.githubusercontent.com/17819874/111791053-3102ac80-8906-11eb-8391-a242a1f934ea.png)
+
 - 발표자마다 줌 녹화방이 따로 있습니다. 미리 설정되어있는 녹화방을 사용해주세요.
 - 공유 옵션 설정
   - 발표자가 화면을 공유할 수 있게 아래 설정을 해주세요.
+  ![zoom-sharing-option](https://user-images.githubusercontent.com/17819874/111791625-bbe3a700-8906-11eb-8304-ac90b704f876.png)
+
   - 발표자의 화면 공유 설정은 발표화면 창만 보이도록 선택해주세요.
+  ![image](https://user-images.githubusercontent.com/17819874/111792015-27c60f80-8907-11eb-86d8-f990d40aae89.png)
+
 
 ## 당일 체크 리스트
 ### 촬영 전
