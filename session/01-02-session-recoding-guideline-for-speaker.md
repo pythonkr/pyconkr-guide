@@ -141,7 +141,7 @@ Zoom 녹화
 - 발표자가 변경될 때마다 5초 멈추고, 발표자가 변경되었음을 종이에 써서 알려주세요. - 편집점을 잡기 위함입니다.  
 
 #### 녹화 종료시
-- 마지막 멘트가 끝나면, 박수치고 “발표 종료” 라고 말씀해주시기 바랍니다. 
+- 마지막 멘트가 끝나면 3초 정도 쉬고, 박수치고 “발표 종료” 라고 말씀해주시기 바랍니다. 
 
 ## 발표자 개별 녹화 후 제출 방법
 오프라인 스튜디오 촬영과 온라인 Zoom 녹화를 권장해드리나, 부득이한 사정으로 개별 녹화를 하셔야 하는 경우 다음과 같은 방법으로 진행을 부탁드립니다. 개별 녹화를 진행하실 경우 파준위가 촬영에 도움을 드리기는 어려운 점 양해 부탁드립니다.
@@ -496,7 +496,7 @@ This is for those you cannot make it to the offline recording. You may need pers
 - It's better to shoot in a different space than to gather in the same area and film separately. Echo Howling can occur when filming in the same room.
 - When the presenter changes, stop for 5 seconds and let me know by writing on paper that the presenter has changed. - To capture an editing point. at the end of the recording
 
- When you're done with your final remarks, please clap and say, "The presentation is over."
+ When you're done with your final remarks, pause 3 second, please clap and say, "The presentation is over."
 
 ## Submit Your Own Recorded Video
 
