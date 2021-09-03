@@ -109,7 +109,7 @@ Zoom 녹화
     - 작은 화면에서도 보이도록 크게 보이는 액션이면 좋습니다.
     - 예시. 빈 문서에 NG 라고 크게 적고 NG가 날 때마다 화면 전환 등
 4. DEMO 준비
-  - 화면 녹화에서는 DEMO 영상과 음성이 제대로 녹화되지 않을 수 있어서 편집 시에 합성합니다. 미리 DEMO 영상을 [program@pycon.kr](mailto:program@pycon.kr) 에 [파이콘 한국 발표] 발표자명-메일로 보내주세요. 
+  - 화면 녹화에서는 DEMO 영상과 음성이 제대로 녹화되지 않을 수 있어서 편집 시에 합성합니다. 미리 DEMO 영상을 [program@pycon.kr](mailto:program@pycon.kr) 에 [파이콘 한국 발표] 발표자명-메일로 보내주세요. 만약 zoom 촬영 전에 제출하지 않았다면 zoom 촬영에서 스태프가 안내해주는 제출 일정을 꼭 따라주세요. 미제출시 DEMO 없이 최종 영상이 만들어질 수 있으니 꼭 챙겨주세요 :)
   - 데모 사인을 인지해주세요. 영상 촬영 시에는 ‘데모입니다’ 라고 이야기하고, DEMO 라고 크게 적힌 문서 파일로 화면을 전환해주세요.
 
 ## 발표하면서 
@@ -475,6 +475,7 @@ This is for those you cannot make it to the offline recording. You may need pers
 
 5. DEMO sign: 
   - Please hold the DEMO sign without actually demonstrating it in the DEMO demonstration. This is because DEMO images and voices may not be adequately recorded in screen recording. Composition during editing. Please send the DEMO video to program@pycon.kr in advance. 
+- If you did not submit before taking a zoom recording, please follow the submission schedule guided by the staff.  If not submitted, the final video may be made without a DEMO, so please take care of it :)
   - Please recognize the demo sign. When filming a video, say 'It's a demo' and change the screen to a DEMO sign document file 
   
 ### At the beginning of the recording
