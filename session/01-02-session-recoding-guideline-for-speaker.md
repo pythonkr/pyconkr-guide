@@ -6,6 +6,7 @@
 이 문서는 파이콘 한국 발표자로 기여해주시는 분들을 위한 발표 영상 촬영 안내입니다. 발표자께서는 다음 녹화 방법 중 한 가지를 선택하실 수 있습니다. (이하 파이콘 한국준비위원회를 파준위로 표기)
 
 이후 편집일정을 위해 **꼭 정해진 일정을 준수**해주시기 바랍니다. 사전 연락없이 일정 미준수 시, 발표가 취소될 수 있습니다. (키노트, 스폰서 세션, 일반 세션 모두 해당)
+촬영은 파이콘 한국의 피드백이 완료된 최종 발표자료를 사용하셔야합니다. 피드백을 받지 않은 자료 사용시, 파이콘 한국 세션으로 발표하실 수 없습니다. 재촬영이 요구되거나 파이콘 한국 진행 일정상 발표가 취소될 수 있습니다. 
 
 <table>
   <tr>
@@ -370,6 +371,7 @@ This document is a session recording guideline for those who participate in PyCo
 
 Please meet the deadline. If the schedule is not met without prior contact, the presentation may be canceled. (Keynote, Sponsor Session, General Session All)
 
+For the shooting, you should use the final presentation material that has been completed with the feedback from PyCon Korea. If you use the other material, you cannot present it as a Pycon Korea session. In this case, Re-shooting is required, or We may cancel the presentation due to the conference schedule.
 
 <table>
   <tr>
