@@ -43,19 +43,11 @@ jobs:
     if: github.event_name == 'push' && github.ref == 'refs/heads/master'
 
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
-
-      - name: Setup Node.js
-        uses: actions/setup-node@v4
+      - name: Download _book artifact
+        uses: actions/download-artifact@v4
         with:
-          node-version: "8"
-
-      - name: Build GitBook
-        run: |
-          npm install -g gitbook-cli
-          gitbook install
-          gitbook build
+          name: gitbook-_book
+          path: _book
 
       - name: Deploy to gh-pages
         uses: peaceiris/actions-gh-pages@v4
