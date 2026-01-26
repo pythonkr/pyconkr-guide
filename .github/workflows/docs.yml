@@ -16,18 +16,15 @@ jobs:
   build:
     runs-on: ubuntu-latest
 
-    # CircleCI에서 node:8.12를 쓰고 있어서 호환성 위해 컨테이너로 맞춥니다.
-    container:
-      image: node:8.12
-
     steps:
-      - name: Install git (required in container)
-        run: |
-          apt-get update
-          apt-get install -y git
-
       - name: Checkout
         uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "16"
+          cache: "npm"
 
       - name: Build GitBook
         run: |
@@ -46,17 +43,15 @@ jobs:
     runs-on: ubuntu-latest
     if: github.event_name == 'push' && github.ref == 'refs/heads/master'
 
-    container:
-      image: node:8.12
-
     steps:
-      - name: Install git (required in container)
-        run: |
-          apt-get update
-          apt-get install -y git
-
       - name: Checkout
         uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "16"
+          cache: "npm"
 
       - name: Build GitBook
         run: |
