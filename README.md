@@ -1,6 +1,6 @@
 # 파이콘 한국 가이드
 
-[![Build & Deploy GitBook](https://github.com/pythonkr/pyconkr-guide/actions/workflows/docs.yml/badge.svg)](https://github.com/pythonkr/pyconkr-guide/actions/workflows/docs.yml)
+[![GitBook](https://github.com/pythonkr/pyconkr-guide/actions/workflows/docs.yml/badge.svg)](https://github.com/pythonkr/pyconkr-guide/actions/workflows/docs.yml)
 
 파이콘 한국 준비위원회가 어떻게 일하고 있는지 정리합니다. 이 가이드는 언제든 수정될 수 있고, 이 가이드에 적힌 내용은 틀릴 수도 있습니다.
 
