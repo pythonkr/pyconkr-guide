@@ -1,0 +1,72 @@
+name: Build & Deploy GitBook
+
+on:
+  pull_request:
+  push:
+    branches: ["master"]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: gitbook-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    # CircleCI에서 node:8.12를 쓰고 있어서 호환성 위해 컨테이너로 맞춥니다.
+    container:
+      image: node:8.12
+
+    steps:
+      - name: Install git (required in container)
+        run: |
+          apt-get update
+          apt-get install -y git
+
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Build GitBook
+        run: |
+          npm install -g gitbook-cli
+          gitbook install
+          gitbook build
+
+      - name: Upload _book artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: gitbook-_book
+          path: _book
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    if: github.event_name == 'push' && github.ref == 'refs/heads/master'
+
+    container:
+      image: node:8.12
+
+    steps:
+      - name: Install git (required in container)
+        run: |
+          apt-get update
+          apt-get install -y git
+
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Build GitBook
+        run: |
+          npm install -g gitbook-cli
+          gitbook install
+          gitbook build
+
+      - name: Deploy to gh-pages
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_branch: gh-pages
+          publish_dir: ./_book
