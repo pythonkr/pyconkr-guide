@@ -23,7 +23,7 @@ jobs:
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: "16"
+          node-version: "8"
 
       - name: Build GitBook
         run: |
@@ -49,7 +49,7 @@ jobs:
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: "16"
+          node-version: "8"
 
       - name: Build GitBook
         run: |
