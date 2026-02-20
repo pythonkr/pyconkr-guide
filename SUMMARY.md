@@ -15,6 +15,7 @@
 - 파준위 실록
     - [2019 재정지원](history/2019-fa.md)
     - [2019 스폰서 관리](history/2019-sponsor.md)
+    - [2025 홈페이지 CMS](history/2025/2025-cms.md)
 - 파이콘 한국 자원봉사자가 일하는 방법
     - [00 꼭 읽어주세요](volunteer/00-must-read.md)
     - [01 Tutorial / Sprint](volunteer/01-tutorial-sprint.md)
